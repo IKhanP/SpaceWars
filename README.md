@@ -28,5 +28,7 @@ If you want to run this project, make sure you have the appropriate .NET Framewo
 - **Framework**: .NET Framework (WinForms)
 - **IDE**: Visual Studio
 
+## Screenshots
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF6dW03MmhqNTJ1ZmtpYTJ4eXJnNWo5bDQ5MWJ2OWFtYXdhbG9heSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szp0Zn8UeHIyxyPT2N/giphy.gif)
 
 
