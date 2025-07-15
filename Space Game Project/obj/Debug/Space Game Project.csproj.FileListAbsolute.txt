@@ -1,0 +1,20 @@
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\bin\Debug\Space Game Project.exe.config
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\bin\Debug\Space Game Project.exe
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\bin\Debug\Space Game Project.pdb
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\obj\Debug\Space Game Project.csproj.AssemblyReference.cache
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\obj\Debug\Space_Game_Project.Form1.resources
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\obj\Debug\Space_Game_Project.Properties.Resources.resources
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\obj\Debug\Space Game Project.csproj.GenerateResource.cache
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\obj\Debug\Space Game Project.csproj.CoreCompileInputs.cache
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\obj\Debug\Space Game Project.exe
+E:\Programming\C# Projects\A-Level CS\Space Game Project\Space Game Project\obj\Debug\Space Game Project.pdb
+D:\Computer Science NEA\Space Game Project\Space Game Project\bin\Debug\Space Game Project.exe.config
+D:\Computer Science NEA\Space Game Project\Space Game Project\bin\Debug\Space Game Project.exe
+D:\Computer Science NEA\Space Game Project\Space Game Project\bin\Debug\Space Game Project.pdb
+D:\Computer Science NEA\Space Game Project\Space Game Project\obj\Debug\Space Game Project.csproj.AssemblyReference.cache
+D:\Computer Science NEA\Space Game Project\Space Game Project\obj\Debug\Space_Game_Project.Form1.resources
+D:\Computer Science NEA\Space Game Project\Space Game Project\obj\Debug\Space_Game_Project.Properties.Resources.resources
+D:\Computer Science NEA\Space Game Project\Space Game Project\obj\Debug\Space Game Project.csproj.GenerateResource.cache
+D:\Computer Science NEA\Space Game Project\Space Game Project\obj\Debug\Space Game Project.csproj.CoreCompileInputs.cache
+D:\Computer Science NEA\Space Game Project\Space Game Project\obj\Debug\Space Game Project.exe
+D:\Computer Science NEA\Space Game Project\Space Game Project\obj\Debug\Space Game Project.pdb
